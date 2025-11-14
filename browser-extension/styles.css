@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; width: 320px; margin: 0; padding: 12px; }
+.container { display:flex; flex-direction:column; gap:8px; }
+input[type="text"] { padding:8px; font-size:14px; width:100%; box-sizing:border-box; }
+button { padding:8px; cursor:pointer; }
+.status { color: #0a0; font-size:13px; }
